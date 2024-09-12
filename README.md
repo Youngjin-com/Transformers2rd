@@ -1,6 +1,6 @@
 # 트랜스포머로 시작하는 자연어 처리
 
-<img src="https://www.youngjin.com/images/book_cover/9788931475869.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931475869.png" height="350px" style="border: 2px solid grey;">
 
 [트랜스포머로 시작하는 자연어 처리(영진닷컴)](https://blog.naver.com/ydot/223440955819)
 
